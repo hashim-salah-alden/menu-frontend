@@ -69,7 +69,7 @@ function App() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-black/20" />
                   <div className="absolute inset-0 flex items-end p-2">
                     <span className=" text-white flex text-base font-bold w-full justify-center">
-                      {category.name}
+                      {lang === "ar" ? category.name : category.name2}
                     </span>
                   </div>
                 </div>
