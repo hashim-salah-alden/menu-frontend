@@ -38,7 +38,7 @@ function App() {
         <div className="flex flex-col items-center justify-center gap-2">
           <img
             className="w-48 h-48 mt-12"
-            src="../public/images/menu/logo.png"
+            src="./images/menu/logo.png"
             alt=""
           />
           <h1 className="text-2xl font-semibold">
