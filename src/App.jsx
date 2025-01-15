@@ -127,6 +127,7 @@ function App() {
           <FaMapLocationDot className="w-8 h-8" />
         </a>
       </div>
+          <p className="text-center pb-4 text-sm font-bold">Powered By CreativeHobyWorld</p>
     </div>
   );
 }
