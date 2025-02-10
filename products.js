@@ -2,7 +2,7 @@ export const products = [
     {
     id: "1",
     resName: "citybalcony",
-    name: "بطاطس ودجز حارة",
+    name: "بطاطا ودجز حارة",
     name2: "Spicy Potato Wedges",
     price: "3.00",
     description: "مطبوخ بالثوم والليمون",
@@ -15,7 +15,7 @@ export const products = [
     {
     id: "2",
     resName: "citybalcony",
-    name: " ودجز بطاطس",
+    name: " بطاطا ودجز",
     name2: "Potato Wedges",
     price: "3.00",
     description: "مطبوخ بالثوم والليمون",
@@ -603,8 +603,8 @@ export const products = [
     name: " سلطة بلكون المدينة",
     name2: "City Balcony salad",
     price: "4.00",
-    description: "",
-    description2: "",
+    description: "جرجير , خس , طماطم , جميدF",
+    description2: "Arugula, lettuce, tomatoes, jameed",
     imageURL: "",
     category: "Salad",
     isOffer: "no",
@@ -718,7 +718,7 @@ export const products = [
     {
     id: "6",
     resName: "citybalcony",
-    name: "ساجية دجاج بالثوم والليمون",
+    name: " صاجية دجاج مطفية",
     name2: "Chicken Sajiya With Garlic & Lemon",
     price: "5.00",
     description: "",
@@ -1046,7 +1046,7 @@ export const products = [
     {
     id: "7",
     resName: "citybalcony",
-    name: "فطيرة التفاح",
+    name: "ابل باي",
     name2: "Apple pie",
     price: "3.00",
     description: "",
@@ -2386,7 +2386,7 @@ export const products = [
     {
     id: "8",
     resName: "citybalcony",
-    name: "فستق مثلج",
+    name: "ايس بستاشيو",
     name2: "Iced Pistachio",
     price: "3.50",
     description: "",
